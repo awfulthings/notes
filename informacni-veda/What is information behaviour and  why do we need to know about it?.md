@@ -27,10 +27,10 @@ Zkoumání informačního chování nám může pomoci lépe předávat informac
 - Data nemusí být vnímána jako informace. To jak jsou vnímána záleží tom, kdo je přijímá.
 
 
-Definice informačního chování
+### Definice informačního chování
 Pettigrew, Fidel and Bruce, 2001 : studium toho, jak lidé „potřebují“, hledají a úoužívají informace v různých kontextech - včetně práce a běžného života.
 
-Wilsonova definice:
+### Wilsonova definice:
 
 Aktivní i pasivní chování lidí ve vztahu ke zdrojům a informačním kanálům.
 
@@ -59,7 +59,7 @@ Suitability
 Posuzování vhodnosti informací ve vztahu k informační potřebě
 V podstatě posouzení relevance informace pro řešení určitého problému.
 
-Using information or knowledge
+### Using information or knowledge
 Vybevení si znalosti a její aplikování při řešení nějakého problému.
 * použití informace - Pokud osoba použije informaci bez hlubšího usouvztažnění s vědomostmi, jedná
 * Použití vědomosti - pokud osoba použije zažitou vědomost, která prošla procesem usouvztažnění -> bacha jak to kdo vnímá.
@@ -67,7 +67,7 @@ Vybevení si znalosti a její aplikování při řešení nějakého problému.
 
 // Použití informace/vědomost s důrazem na povahu informace ze které vychází. (Asi špatně formulované)
 
-Informační chování zahrnuje:
+### Informační chování zahrnuje:
 * vnímání informační potřeby
 * Kontakt s informacemi relevantními pro rešení informační potřeby
 * Používání vědomostí.
@@ -77,7 +77,7 @@ Informační chování zahrnuje:
     * Jejich relevanci
     * Kontextu a předpokladu pro relevanci
 
-Možné témata
+### Možné témata
 * Jak se lidé učí číst?
 * Jaká reklama je efektivnější?
     * interpretace a použití informací z reklamy pro řešení potřeb cílových skupin
