@@ -60,19 +60,23 @@ Proces s jasnými paramety a cíli:
 - Zkoumání problému pro tvorbu rozhodnutí
 
 **Busha a Harter**
+
 Systematické hledání poznatků
 
 **Morris**
+
 Vědomé - předpřipravené hledání za účelem nabytí poznatků.
 Za výzkum považuje analýzu i seminární práci.
 
 **Goldhor**
+
 Výzkum využívá vědecké metody „hledání“ k podložení nebo vyvrácení pravdivosti vztahů - k validaci/otestování hypotézy. 
 
-**V knize znemená výzkum:**
+**V knize znamená výzkum:**
+
 Proces provádění studie se statistickou analýzou pro její interpretování a vyvození závěrů nebo vnik/formulaci teorie. 
 
-Pokud má být LIS věda, musí být lidé schopné provádět výzkum a umět rozlišovat kvalitní výzkum. Knihovnictví momentálně funguje stylem „pokus omyl“ místo toho, aby produkovalo vědecké zákony a teorie.
+Pokud má být LIS věda, musí být lidé schopní provádět výzkum a umět rozlišovat kvalitní výzkum. Knihovnictví momentálně funguje stylem „pokus omyl“ místo toho, aby produkovalo vědecké zákony a teorie.
 
 Jsou názory že:
 - LIS by mělo učit vědecké metody a statistické metody / (dat. analytiku???) 
