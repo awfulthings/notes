@@ -13,12 +13,12 @@ Příspěvek se zabývá problematikou vědecké komunikace, konkrétně otázko
 
 ## Poznámky
 
-sought - hledali
-dissemination - šíření
-facet - aspekt
-withheld - zadržen
-Scarcity - nedostatek
-Tenuous - tenký
+- sought - hledali
+- dissemination - šíření
+- facet - aspekt
+- withheld - zadržen
+- Scarcity - nedostatek
+- Tenuous - tenký
 
 
 Šíření vědeckých prací se historicky vyvinulo a s urychlením šíření informací (s příchodem internetu) je potřeba tento systém znovu promyslet - aby byl efektivní, tam, kde je potřeba.
