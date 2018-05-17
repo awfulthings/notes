@@ -29,12 +29,14 @@ Information searching - searching systems
 
 Výše uvedené systémy nemusí oddělené a mohou se prolínat.
 
-DKIW pyramida:
-Data  vědět - nic
-Informace vědět - to
-Znalosti  vědět - jak
-Moudrost  vědět - proč
-Uvědomnění  vědět - znát sebe
+
+
+| DKIW pyramida: |               |
+| -------------  |-------------- |
+| Data           | vědět - nic        |
+| Informace      | vědět - jak        |
+| Znalosti       | vědět - proč       |
+| Uvědomnění     | vědět - znát sebe  |
 
 Mooersův zákon
 - Pravidlo o exponenciálním růstu výpočetního výkonu v elektronice.
