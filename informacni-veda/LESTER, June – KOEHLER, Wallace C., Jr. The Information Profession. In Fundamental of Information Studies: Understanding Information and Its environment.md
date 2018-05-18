@@ -71,3 +71,110 @@ Nové povolání vznikají vývojem původních. Přesouvají se na nové platfo
 - Storyteller, Shaman
 - Librarian, Archivist, Records manager
 - Network Manager, Database manager
+
+### Hlavní oblasti informačních profesí
+
+1. Computer science
+Podoblasti se můžou prolínat
+- AI
+- Compilery, Programming languages, Type theory etc.
+- Database research
+- Computer graphics and vision
+- Logic programming
+- Neural networks
+- Object-oriented programming
+- …
+
+2. Management Information systems (MIS)
+Business management in information-rich and global environment
+
+3. Library science
+Kolekce, organizace, sdílení, šíření atd.
+
+4. Information science
+Systematické zkoumání, zdrojů, vývoje, kolekce, organizace, evaulace, používání … informací ve všech formách.
+
+
+### Information creation/discovery professions
+
+Povolání, které produkují nové informace (poznatky?) pozorováním, intuicí, vyvozováním, analyzováním a výzkumem.
+Autoři, umělci, vědci
+
+#### Autoři a umělci
+fikce a nefikce
+
+#### Novináři
+Interpretují a přeměňují informace, tak, aby fungovaly na jiném médiu. Noviny, radio, web…
+
+#### Výzkumníci
+
+#### Inteligentní agenti
+„Agenti“, kteří vyvozují poznatky z veřejně dostupných informací.
+
+
+### Information transmission professions
+
+#### Information architect
+Organizuje informace tak, aby byly přehledné pro jejich konzumenty.
+
+#### IT manager
+Má technické znalosti , zná problematiku vývoje, programování, sítě, ukláddání dat
+
+#### Chief knowledge officer
+Jeho zodpovědností je, any právní lidé měli správné informace ve správný čas.
+
+#### Chief information officer
+má na starosti management IT
+
+#### Chief privacy officer
+Má na starosti problematiku soukromí, která nabírá na váze. Vydává patričné dokumenty. Musí znát právo.
+
+
+### Storage related professions
+
+#### Archivist
+Mají na starosti mamagement historických dat. Long term záležitost.
+(History and library science)
+
+#### Records manager
+Management a ukládání dokumentů které mají hodnotu pro jednotlivce nebo organizace (ne historickou).
+
+#### Curator
+Specializuje se na kolekci a zároveň management dokuemntů v nějaké disciplíně - kterou zpravidla podrobně zkoumá.
+
+#### Cataloger
+Organizují, katalogizují informace.
+
+#### School Library Media Specialist
+Knihovník, spolupracuje s učiteli. Podílí se na vzdělávání studentů.
+
+#### Special librarian
+Vykonává práci pro svého zaměstnavatele, ne pro veřejnost.
+Knihovník, který má ideálně hluboké zkušenosti v nějakém oboru - např. právo, medicína a pod.
+
+#### Systems librarian
+Má na starosti technické zázemí knihovny a jeho nasazení mezi pracovníky knihovny.
+
+#### Information broker
+Je placen za provedení informační služby. „Librarian for hire.“ 
+Competitive intelligence.
+
+
+### Changes in the information professions 
+
+Povolání se v průběhu času vyvíjí - jde o reakci na nové technologie a potřeby. V souvislosti s tím, že mění i názvy profesí - catalogizátor/metadata specialista.
+Dále se mění také potřebné vzdělání.
+
+#### Informationist:
+Information specialist in context - možný nový trend.
+
+
+### Závěry
+
+Nová informační povolání se od původních příliš nelyší. Mění se jazyk (slovník), který používají a technoglie, které využívají. 
+
+Jednotlivá informační povolání jsou ale vyžadují jiné, unikátní schopnosti.
+
+Každému novému povolání chybí standardní vzdělání - vždy chvíli trvá, než se školství adaptuje. V vlivem času se ustáluje.
+
+Změny a vývoj jsou normální.
