@@ -1,5 +1,6 @@
 # Úvod do zpracování přirozené řeči
 
+- [Quizlet](https://quizlet.com/_5tywhr)
 - [Historie a aktuální stav](#historie-a-aktuální-stav)
 - [Akustika (obecně)](#akustika-obecně)
 
