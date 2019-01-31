@@ -86,5 +86,58 @@ Bolest 130 Pa
 
 - Lze je rozložit na jednotlivé základní tóny. K jejich získání lze využít [Fourierovu transformaci](https://www.youtube.com/watch?v=spUNpyF58BY)
 
-TODO: [ ] - co jsou to fourierovy řady? 
+TODO:
+[ ] - co jsou to fourierovy řady? 
 
+## Základní hlasivkový tón
+
+https://wikisofia.cz/wiki/Zvuk_a_zvukov%C3%A9_vln%C4%9Bn%C3%AD
+http://www.fyzika007.cz/mechanicke-kmitani-a-vlneni/zakladni-vlastnosti-a-veliciny-charakterizujici-zvuk
+https://cs.wikipedia.org/wiki/Frekvence
+https://wikisofia.cz/wiki/Anal%C3%BDza_%C5%99e%C4%8Dov%C3%A9ho_sign%C3%A1lu
+https://wikisofia.cz/wiki/Artikulace_konsonant%C5%AF
+
+
+je složený tón s odpovídající harmonickou řadou. Od základního tónu jsou odvozeny všechny tónové složky řeči. 
+Nadhrtanové dutiny poté slouží jako rezonátor, který propouští jen některé svrchní harmonické tóny, označované jako rezonanční frekvence nebo formanty. Je tomu tak u samohlásek, ale i u některých souhlásek (sonory). Hlasové ústrojí může ale sloužit i jako zdroj šumu. V tomto případě hlasivky nekmitají, vytvoří pouze štěrbinu, kterou proniká vzduch (neznělé obstruenty).[2]
+
+### Harmonická řada
+
+Harmonická řada je posloupnost částečných součtů posloupnosti převrácených hodnot přirozených čísel
+
+Frekvence kmitání hlasivek = hlasivkový tón
+Základní hlasivkový tón - frekvence kmitání hlasivek: F = 1/T
+
+Vzorkovací frekvence: 44100 Hz
+Frame: 160 samples or 10 ms
+Co potřebuju vypočítat: frekvence kmitání hlasivek
+
+https://dsp.stackexchange.com/questions/22085/how-compute-frequency-of-signal-from-zero-crossing
+
+https://gist.github.com/endolith/129445
+
+## Analýza ve frekvenční oblasti
+
+### Fourierova transformace
+Jakýkoliv průběh signálu se dá zapsat pomocí nekonečného množství sinusovek s různými parametry.
+
+### Kepstrální analýza
+X(k)=IFFT(FFT(x(k)))
+
+* Kepstrální analýza umožňuje z řeči oddělit:
+    * parametry buzení
+    * parametry hlasového ústrojí
+* Využití:
+    * ocenění fonetické struktury řeči - znělost, perioda základního hlasivkového tónu, formanty, ...
+    * rozpoznávání slov
+    * verifikace a identifikace mluvčího
+
+### Kepstrum
+* metoda získání vyhlazeného spektra
+* časová reprezentace
+* většinou se vyjadřuje ve vzorcích
+* T0 = ten nejvyšší vrcholek někde uprostřed = základní perioda (udává se v ms)
+* levá část nějakým způsobem popisuje formanty, ale neví se, jak
+* jediným jasným výsledkem je právě perioda
+* původně navrženo pro získání F0 (až pak se zjistilo, že když F0 odfiltrujeme, získáme vyhlazené spektrum)
+* vymýšlejí se stále nové metody na získávání F0 – stále neexistuje spolehlivá metoda
