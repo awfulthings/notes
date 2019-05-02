@@ -2,6 +2,9 @@
 
 ## GDB: The GNU Project Debugger
 
+Mac alternative:
+https://www.ics.uci.edu/~pattis/common/handouts/macmingweclipse/allexperimental/mac-gdb-install.html
+
 Prerequisities:
 - `gcc -g` generates debug information to be used by GDB debugger. 
 
