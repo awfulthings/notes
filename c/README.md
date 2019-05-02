@@ -17,10 +17,13 @@ break <source code line number>
 3. `run`
 4. Use `next`, `step`.
 
+<br />
 
 ## Přednášky
 
-### Týden 4
+
+### Týden 4
+
 
 * Testování
 * Vícerozměrné pole
