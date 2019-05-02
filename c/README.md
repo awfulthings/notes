@@ -18,7 +18,9 @@ break <source code line number>
 4. Use `next`, `step`.
 
 
-## 4. týden
+## Přednášky
+
+### Týden 4
 
 * Testování
 * Vícerozměrné pole
@@ -27,14 +29,14 @@ break <source code line number>
 * argumenty main
 * funkční ukazatel
 
-## Testování
+### Testování
 Unit testing - testování elementárních komponent
 Integrační testy - test spolupráce několika komponent mezi sebou, dodržení definovaného rozhraní
 Systémové testy - test celého programu v reálném prostředí
 
 Při provádění refactoringu je porušení unit testů rychle odhaleno. 
 
-## Vícerozměrné pole (multipole)
+### Vícerozměrné pole (multipole)
 
 Pravoúhlé pole N x M
 - Pro všechny řádky má stejný počet prvků
@@ -50,7 +52,7 @@ Nepravoúhlé pole
     - Do položek pArray1D přiřadíme pole
         - pArray1D[0] = array0;
 
-## Textové řetězce
+### Textové řetězce
 Řetězce v C jsou pole znaků ukončených binární nulou \0.
 
 char sentence[10];  for (int i = 0; i < sizeof(sentence); i++) printf(“%c”, sentence[i]);  
