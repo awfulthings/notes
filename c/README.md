@@ -1,15 +1,35 @@
-# 4 týden
+# Principy nízkoúrovňového programování
+
+## GDB: The GNU Project Debugger
+
+Prerequisities:
+- `gcc -g` generates debug information to be used by GDB debugger. 
+
+1. „Load“ program with command line args
+```
+gdb --args executablename arg1 arg2 arg3
+```
+2. optionally set breakpoints.
+```
+break <source code line number>
+```
+
+3. `run`
+4. Use `next`, `step`.
+
+
+## 4. týden
 
 * Testování
-* Vícerozměrné pole
-* textové řetězce
+* Vícerozměrné pole
+* textové řetězce
 * const
 * argumenty main
-* funkční ukazatel
+* funkční ukazatel
 
 ## Testování
 Unit testing - testování elementárních komponent
-Integrační testy - test spolupráce několika komponent mezi sebou, dodržení definovaného rozhraní
+Integrační testy - test spolupráce několika komponent mezi sebou, dodržení definovaného rozhraní
 Systémové testy - test celého programu v reálném prostředí
 
 Při provádění refactoringu je porušení unit testů rychle odhaleno. 
@@ -27,23 +47,23 @@ Nepravoúhlé pole
 - Lze i pomocí statické alokace
 - Pole ukazatelů
 - int* pArray1D[4]; 
-    - Do položek pArray1D přiřadíme pole
+    - Do položek pArray1D přiřadíme pole
         - pArray1D[0] = array0;
 
 ## Textové řetězce
-Řetězce v C jsou pole znaků ukončených binární nulou \0.
+Řetězce v C jsou pole znaků ukončených binární nulou \0.
 
 char sentence[10];  for (int i = 0; i < sizeof(sentence); i++) printf(“%c”, sentence[i]);  
 Ukončení (zkrácen) věty: 	\0 binární nula - speciální znak jako konec 
-* char myString[100]; // max. 99 znaků + koncová nula 
+* char myString[100]; // max. 99 znaků + koncová nula 
 * char myString2[] = “Hello”; // délka pole dle konstanty, viz dále
-* wchar_t myWideString[100]; // max. 99 unicode znaků + koncová nula
+* wchar_t myWideString[100]; // max. 99 unicode znaků + koncová nula
 
 wchar_t - pro unicode znaky!!
 
 Příklady:
 - “” (pouze koncová 0)
-- “Hello” (5 znaků a koncová nula) 
+- “Hello” (5 znaků a koncová nula) 
 - char answers[]={'a','y','n'}; – NEVLOŽÍ koncovou nulu
 - char answers2[]="ayn";  – VLOŽÍ koncovou nulu
 
