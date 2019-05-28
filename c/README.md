@@ -10,6 +10,13 @@ Pokud vše správně chápu, tak je pole pointer. Můžeme nad ním provádět p
 
 https://en.wikipedia.org/wiki/Type_conversion
 
+
+### Typové modifikátory
+- `volatile` říká compileru, že práci s proměnnou nesmí optimalizovat, protože se může měnit její hodnota. Program tak při každé operaci s touto proměnnou „šáhne“ po její aktuální hodnotě, protože nemůže vědět, jestli se nezměnila. 
+- `const` říká compileru (ale i programátorovi), že je proměnná neměnná.
+- `const volatile` kombinace obojího (zbytečné)
+
+
 ### Problémy s dynamickou alokací. Co je to Segmentation Fault? Co je to memory leak?
 
 - https://en.wikipedia.org/wiki/Memory_leak
