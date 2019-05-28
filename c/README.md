@@ -1,5 +1,17 @@
 # Principy nízkoúrovňového programování
 
+
+**Ukazatel a pole. Jak se deklarují? Jak se používají? Jaká je mezi nimi souvislost?**
+Pokud vše správně chápu, tak je pole pointer. Můžeme nad ním provádět pointerovou aritmetiku (posouvat se po bytech podle sizeof()) nebo používat notaci [] (je to to samé).
+
+**Co je to typecast**
+https://en.wikipedia.org/wiki/Type_conversion
+
+**Problémy s dynamickou alokací. Co je to Segmentation Fault? Co je to memory leak?**
+- https://en.wikipedia.org/wiki/Memory_leak
+- segfault
+
+
 ## GDB: The GNU Project Debugger
 
 Mac alternative:
