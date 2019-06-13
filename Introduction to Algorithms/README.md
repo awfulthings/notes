@@ -10,7 +10,8 @@ Umožňuje hledat podřetězec v řetězci v lineárním čase pomocí porovnáh
 [wiki](https://cs.stackexchange.com/questions/18797/minimum-spanning-tree-vs-shortest-path)
 
 **Shortest-path treey:** Path from **root** vertex V to any other vertex is shortest.
-**Minimu spanning tree:** Tree without circles with minimum total weight. 
+
+**Minimum spanning tree:** Tree without circles with minimum total weight. 
 
 ## Prim algorithm
 - gives minimum spanning tree, 
