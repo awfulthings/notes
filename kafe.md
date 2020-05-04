@@ -1,6 +1,6 @@
 # Kafe
 
-## Filtr
+## Filtr
 
 ### Ethiopia Dambi Uddo
 
@@ -35,7 +35,7 @@
 - flowerey
 - rusty nails
 
-### espresso Uganda
+### espresso Uganda
 
 - červené jablko, borůvky, jasmín
 - fifty beans
