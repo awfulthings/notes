@@ -39,3 +39,7 @@
 
 - červené jablko, borůvky, jasmín
 - fifty beans
+
+### Brazílie Diamond Santos
+
+- méně kyselá
